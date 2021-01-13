@@ -1,0 +1,16 @@
+is_black
+is_black_and_white
+is_blue
+is_brown
+is_golden
+is_green
+is_grey
+is_orange
+is_pink
+is_purple
+is_red
+is_yellow
+is_white
+is_clear_transparent
+is_colourful
+is_shiny

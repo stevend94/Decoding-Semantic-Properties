@@ -1,0 +1,13 @@
+is_any_size
+is_big_large
+is_circular_round
+is_curved
+is_cylindrical
+is_fat
+is_flat
+is_long
+is_rectangular_square
+is_short
+is_small
+is_tall
+is_thin
